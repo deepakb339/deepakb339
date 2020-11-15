@@ -29,7 +29,7 @@
 - 👯 I’m looking to collaborate on any great project.
 - 🤔 I’m looking for help with finding a job.
 - 💬 Ask me about Flutter or any other tech related stuff.
-- 📫 How to reach me: Linkedin - [@deepakb339] (https://linkedin.com/in/deepakb339)
+- 📫 How to reach me: Linkedin - [@deepakb339](https://linkedin.com/in/deepakb339)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I play chess.
 
